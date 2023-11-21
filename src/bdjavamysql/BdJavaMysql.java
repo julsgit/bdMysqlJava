@@ -17,6 +17,7 @@ public class BdJavaMysql {
         // TODO code application logic here
         
         //otros comentarios
+        // mas comentarios
     }
     
 }
